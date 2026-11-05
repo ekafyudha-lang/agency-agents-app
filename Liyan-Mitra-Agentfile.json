@@ -1,0 +1,50 @@
+{
+  "agentfile": 1,
+  "installs": [
+    {
+      "slug": "chief-financial-officer",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "finance-tax-strategist",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "finance-bookkeeper-controller",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "accounts-payable-agent",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "finance-financial-analyst",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "support-legal-compliance-checker",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "customer-success-manager",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "operations-manager",
+      "tool": "claudeCode",
+      "projectPath": null
+    },
+    {
+      "slug": "specialized-document-generator",
+      "tool": "claudeCode",
+      "projectPath": null
+    }
+  ]
+}
